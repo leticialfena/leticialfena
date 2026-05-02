@@ -33,22 +33,7 @@
 ---
 
 ## 📊 Estatísticas
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticialfena=anuraghazra&show_icons=true&theme=radical)
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leticialfena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  />
 
 </p>
 
